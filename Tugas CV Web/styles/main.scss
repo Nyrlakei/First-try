@@ -1,0 +1,22 @@
+body{
+  background-color: rgb(154, 206, 241);
+  padding: 5px;
+}
+
+.tengah {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tengah_gambar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.sub_judul {
+  background-color: rgb(255, 255, 255);
+  padding: 5px 20px;
+}
